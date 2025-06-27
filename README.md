@@ -56,17 +56,18 @@ Here are some ideas to get you started:
 
 ## 🔹 Featured Projects
 
-### 🔹 [Hexer Units](https://github.com/Emmanuelhexer/hexerunits-frontend)
-> A sleek unit converter app using *React* (frontend) + *C# ASP.NET Core* (backend)  
-> Converts values across units like °C ↔ °F, kg ↔ g, etc.  
-> Fully responsive UI with scalable, modular architecture
+### 🔹 [Game Trailer](https://github.com/KwabenaIzen/game-trailer-auto-vi)
+> An automated video showcase app for games using React.
+> Upload game footage and auto-generate trailers with smooth transitions and effects 
+> Built for content creators and devs to streamline game promotion
+
 
 ---
 
-### 🔹 [PERN Store](https://github.com/Emmanuelhexer/product-store)
-> A full-stack e-commerce app using *PostgreSQL, Express, React, Node.js*  
-> Includes product CRUD, responsive design, and a clean user experience  
-> Ideal example of modern web CRUD implementation
+### 🔹 [MERN Auth](https://github.com/KwabenaIzen/MERN-Auth)
+> A full-stack authentication system built with MongoDB, Express, React, and Node.js
+> Features secure JWT login, registration, email verification, and protected routes  
+> A solid boilerplate for modern user authentication in MERN applications
 
 ---
 
@@ -80,22 +81,22 @@ Here are some ideas to get you started:
 <!-- GitHub Stats - 2x2 Grid Layout -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Emmanuelhexer&show_icons=true&theme=radical&hide_title=true&hide_border=true&border_radius=10&custom_title=GitHub+Stats"
+    src="https://github-readme-stats.vercel.app/api?username=kwabenaizen&show_icons=true&theme=radical&hide_title=true&hide_border=true&border_radius=10&custom_title=GitHub+Stats"
     height="150"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuelhexer&theme=radical&hide_border=true&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KwabenaIzen&theme=radical&hide_border=true&border_radius=10"
     height="150"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelhexer&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwabenaIzen&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6"
     height="170"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emmanuelhexer&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KwabenaIzen&theme=radical"
     height="170"
   />
 </p>
@@ -106,15 +107,13 @@ Here are some ideas to get you started:
 ## 🔹 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Emmanuelhexer">
+  <a href="https://linkedin.com/in/kwabena-izen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:emmanuelhexer@gmail.com">
+  <a href="mailto:Kwabenaizen0531@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Emmanuelhexer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
