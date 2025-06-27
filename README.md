@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kwabena+Izen;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kwabena+Izen;" alt="Typing SVG" />
 </p>
 
 <p align="center"><strong>Full-Stack Developer · JavaScript Specialist · UI/UX Enthusiast</strong></p>
