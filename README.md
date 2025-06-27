@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emmanuelhexer&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=Emmanuelhexer&style=flat-square&color=blueviolet" />
 </p>
 
 <p align="center"><em>“I build, break, and rebuild until it's perfect.”</em></p>
