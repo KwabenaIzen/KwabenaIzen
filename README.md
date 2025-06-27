@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-JS%20%7C%20TS%20%7C%20React%20%7C%20Node%20%7C%20Express%20%7C%20SQL%2FNoSQL-blueviolet?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-JS%20%7C%20TS%20%7C%20React%20%7C%20Node%20%7C%20Express%20%7C%20SQL%2FNoSQL-blue?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ---
